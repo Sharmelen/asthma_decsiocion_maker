@@ -1,0 +1,5 @@
+The required package for this project is WxPython
+
+Before running this program make sure to install WxPython by doing "pip install wx"
+
+Once done type "python questions.py"
